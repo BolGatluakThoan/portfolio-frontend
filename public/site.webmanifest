@@ -1,0 +1,21 @@
+{
+  "name": "Bol Gatluak Thoan | Full Stack Web Developer",
+  "short_name": "Bol Gatluak",
+  "description": "Portfolio of Bol Gatluak Thoan – showcasing web development projects, skills, and experience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/BG.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/BG.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
